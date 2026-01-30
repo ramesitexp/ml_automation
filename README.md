@@ -294,7 +294,6 @@ All rights reserved.
 For support and inquiries:
 - **Company**:  (Engagesphere Technology Private Limited)
 - **Location**: Bengaluru, India
-- **Website**: [euron.one](https://euron.one)
 
 ---
 
