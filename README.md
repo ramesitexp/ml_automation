@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![ML Automation](https://img.shields.io/badge/EURON-ML%20Automation-667eea?style=for-the-badge&logo=robot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.31-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)
