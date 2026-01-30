@@ -1,4 +1,4 @@
-# 🤖 EURON ML Automation
+# 🤖 ML Automation
 
 <div align="center">
 
