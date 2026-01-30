@@ -1,0 +1,28 @@
+# EURON ML Automation - Requirements
+# Core Framework
+fastapi==0.109.0
+uvicorn==0.27.0
+streamlit==1.31.0
+python-multipart==0.0.6
+pydantic==2.5.3
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+openpyxl==3.1.2
+
+# EDA & Profiling
+ydata-profiling>=4.7.0
+
+# Machine Learning
+scikit-learn==1.4.0
+xgboost==2.0.3
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# Utilities
+requests==2.31.0
+aiofiles==23.2.1
